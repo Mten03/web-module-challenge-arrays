@@ -202,7 +202,6 @@ Use the getAverageWordLength function below to do the following:
 */
 
 function getAverageWordLength(){
-  
 }
 
 
